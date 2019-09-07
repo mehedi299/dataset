@@ -1,4 +1,4 @@
-Student_Id,Gender,Department,SSC_Result,HSC_Result,University_Trevel_time,Residence_Type,Internet,Pertime_Work_Hour,Extra_Activities,Relationship_Status,Family_Status,Avrage_Study_Time,Health,Attendance,1st_CGPA,Backlock,2nd_CGPA,Backlock2,Final_CGPA,Lebel
+Student_Id,Gender,Department,SSC_Result,HSC_Result,University_Trevel_time,Residence_Type,Internet,Pertime_Work_Hour,Extra_Activities,Relationship_Status,Family_Status,Avrage_Study_Time,Health,Attendance,1st_CGPA,Backlock,2nd_CGPA,Backlock2,Final_CGPA,Lebel,
 CSE06007001,M,CSE,4.38,4,10,F,4,0,0,S,M,4,1,1,3.2,1,3.4,1,3.35,Good,
 CSE06007002,F,CSE,4.7,4.5,15,RF,5,0,0,M,H,3,1,1,3.1,2,3.4,0,3.37,Good,
 CSE06007003,F,CSE,5,5,40,M,5,5,0,R,M,3,1,1,3.7,1,3.8,0,3.75,Excellent,
