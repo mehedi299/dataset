@@ -1,0 +1,163 @@
+id,Gender,SSC,HSC,Accommodation,TravelTime,InternetTime,StudyTime,PerTimeWork,Clubbing,Relationship,Family,IncomSubject,RetSubject,Attendance,CGPA,Class
+CSE 060 07189,Female,5,5,Family,30,3,3,12,NO,Single,Middle,0,0,100,3.97,Excellent
+CSE 060 07188,Female,5,5,Family,30,4,3,0,NO,Single,Upper middle,2,0,100,3.96,Excellent
+CSE 062 07349,Female,5,4.8,Relative Family,60,6,3.5,35,NO,In a relation,High,0,0,100,3.98,Excellent
+CSE 061 07297,Male,5,4.8,Mess,25,5,5,0,NO,Single,Middle,1,0,100,3.9,Excellent
+CSE 060 07186,Male,5,4.42,Family,30,7,2,0,NO,Single,Middle,0,0,98,3.58,Very Good
+CSE 060 07270,Male,5,5,Mess,20,8,3,0,NO,Single,Lower middle,0,0,100,3.59,Very Good
+CSE 060 07262,Male,5,4.7,Family,20,8,2,18,NO,Single,Lower middle,0,0,100,3.66,Very Good
+CSE 060 07249,Male,5,4.25,Mess,15,7,2,12,NO,Single,Middle,0,0,98,3.53,Very Good
+CSE 060 07280,Female,5,5,Family,60,8,3,0,NO,Single,Middle,3,0,100,3.72,Very Good
+CSE 060 07281,Female,5,3.5,Family,45,10,2,0,NO,Married,Middle,3,1,98,3.5,Very Good
+CSE 060 07205,Male,5,4.5,Mess,20,8,2.5,0,NO,Single,High,0,2,98,3.48,Good
+CSE 060 07244,Male,4.8,4.5,Mess,60,8,3,42,Yes,In a relation,Middle,0,5,92,3.29,Good
+CSE 060 07289,Male,5,4.25,Mess,20,15,2,0,NO,Single,Lower middle,1,2,98,3.43,Good
+CSE 057 06898,Male,5,3.5,Mess,30,10,2,0,NO,Single,Middle,2,3,85,3.35,Good
+CSE 060 07227,Male,5,3.4,Relative Family,20,8,2,0,NO,Married,Middle,1,0,98,3.46,Good
+CSE 060 07243,Male,4.5,3.5,Mess,20,7.5,2.5,0,NO,Married,High,1,0,92,3.32,Good
+CSE 060 07267,Female,4,3.5,Family,45,11,2,0,NO,Single,Upper middle,10,1,75,3.19,Above Avrage
+CSE 060 07276,Female,4,3.5,Mess,15,10,1.5,0,NO,Married,Upper middle,5,4,80,3.19,Above Avrage
+CSE 060 07190,Female,4.69,4.1,Family,60,14,1.5,0,NO,In a relation,Middle,9,5,78,3.01,Above Avrage
+CSE 060 07252,Female,4,3.5,Mess,5,5,2,15,NO,In a relation,Upper middle,3,1,80,3.17,Above Avrage
+CSE 060 07214,Female,3.5,4.67,Family,50,4,1.5,10,Yes,Single,Upper middle,8,3,80,3.12,Above Avrage
+CSE 060 07226,Male,4.5,3.75,Family,40,6,1,0,NO,Single,Middle,8,2,80,3.08,Above Avrage
+CSE 060 07285,Female,3.8,3.5,Family,100,10,1,0,Yes,Single,Middle,5,1,80,3.03,Above Avrage
+CSE 060 07253,Male,4.5,3.5,Mess,30,10,2,0,NO,Single,Middle,2,4,80,3.13,Above Avrage
+CSE 060 07245,Male,4.5,4,Mess,10,14,1,0,NO,Single,Middle,0,2,85,3.21,Above Avrage
+CSE 060 07231,Female,4,3.5,Family,10,13,1.2,0,NO,Single,Middle,8,5,70,2.89,Avrage
+CSE 060 07288,Male,4,3.68,Mess,45,10,4,0,NO,In a relation,Lower middle,8,8,70,2.85,Avrage
+CSE 060 07211,Female,4.5,4.5,Family,40,11,2,7,Yes,Single,Middle,14,7,60,2.81,Avrage
+CSE 060 07198,Male,4.88,4.6,Family,150,11,1.5,0,NO,In a relation,Middle,11,6,78,2.96,Avrage
+CSE 060 07265,Female,4.56,4.2,Family,129,12,1.5,0,NO,Married,Middle,8,3,75,2.91,Avrage
+CSE 060 07228,Male,4.25,4.2,Family,120,10,3,0,NO,Engaged,Upper middle,7,5,80,2.89,Avrage
+CSE 060 07236,Male,4.9,3.9,Mess,20,15,1,0,Yes,Single,Middle,5,3,75,2.83,Avrage
+CSE 05706938,Male,5,4.1,Relative Family,15,10,2.5,0,Yes,Single,Middle,8,16,70,2.76,Avrage
+CSE 060 07290,Male,4.19,3.83,Mess,20,18,1,12,NO,Single,Middle,12,10,70,2.53,Poor
+CSE 060 07207,Female,3.5,3.5,Hostel,20,15,0.5,42,Yes,In a relation,Middle,9,2,60,2.44,Poor
+CSE 062 07374,Male,4.56,3.67,Family,30,15,1,0,NO,Single,Middle,4,2,70,2.2,Poor
+CSE 062 07353,Female,4,3.5,Family,120,17,1.5,0,Yes,Single,Middle,7,2,75,2.51,Poor
+CSE 062 07351,Female,4,4.17,Family,90,14,2,13,NO,Single,Middle,4,4,75,2.66,Poor
+,Female,5,5,Family,30,3,3,12,NO,Single,Middle,0,0,100,3.9,Excellent
+,Female,5,5,Family,30,4,3.5,0,NO,Single,middle,1,0,100,3.96,Excellent
+,Female,5,5,Relative Family,40,6,3,8,NO,Single,Middle,2,0,100,3.78,Excellent
+,Male,5,4.5,Mess,25,5,3,0,NO,Single,Middle,0,0,100,3.9,Excellent
+,Male,4.8,4.5,Family,20,8,2,12,NO,Single,Lower middle,0,0,98,3.66,Very Good
+,Male,5,4.25,Mess,15,7,2,12,NO,Single,Middle,1,0,97,3.53,Very Good
+,Female,5,5,Family,60,8,3,0,NO,Single,Middle,3,0,100,3.72,Very Good
+,Female,5,3.5,Family,45,10,2,0,NO,Single,Middle,3,1,98,3.6,Very Good
+,Female,4.16,3.9,Family,120,7.5,3,18,NO,Single,Middle,3,1,95,3.45,Good
+,Male,4.69,3.9,Mess,20,10,2,0,NO,Single,Middle,1,1,98,3.47,Good
+,Male,4.75,3.75,Mess,20,12,2,40,NO,Single,Middle,2,0,98,3.48,Good
+,Female,4.96,5,Family,20,14,2,0,Yes,Single,Middle,1,0,95,3.44,Good
+,Female,4.7,4.33,Family,60,9,3,0,NO,Single,Middle,1,1,98,3.46,Good
+,Female,4.56,4.67,Family,60,7.5,2,12,NO,Married,Middle,2,2,95,3.41,Good
+,Female,4.69,4.1,Family,60,14,1.5,0,NO,In a relation,Middle,4,2,78,3.11,Above Avrage
+,Female,4,3.5,Mess,5,5,2,15,NO,In a relation,Upper middle,3,1,80,3.17,Above Avrage
+,Female,3.5,4.67,Family,50,4,1.5,12,Yes,Single,Upper middle,5,3,80,3.22,Above Avrage
+,Male,4.5,3.75,Family,40,6,1,0,NO,Single,Middle,3,2,80,3.18,Above Avrage
+,Female,3.8,3.5,Family,100,10,1,0,Yes,Single,Middle,5,1,80,3.13,Above Avrage
+,Male,4.5,3.5,Mess,30,10,2,0,NO,Single,Middle,2,4,80,3.13,Above Avrage
+,Male,4.5,4,Mess,10,14,1,0,NO,Single,Middle,2,2,85,3.21,Above Avrage
+,Female,4.5,4.8,Mess,20,8,2,10,NO,In a relation,Upper middle,1,3,85,3.11,Above Avrage
+,Male,4.75,4.7,Family,120,3,2,9,NO,Single,Middle,3,1,80,3.04,Above Avrage
+,Male,4.63,4.5,Family,90,2,2,15,NO,Single,Upper middle,0,4,90,3.18,Above Avrage
+,Male,4.81,4.6,Mess,15,13,1.5,0,NO,Single,High,5,2,80,3.13,Above Avrage
+,Female,4.56,4.2,Family,129,12,1.5,0,NO,Married,Middle,8,3,75,2.81,Avrage
+,Male,4.25,4.2,Family,120,10,3,0,NO,Engaged,Upper middle,7,5,80,2.79,Avrage
+,Male,4.9,3.9,Mess,20,15,1,0,Yes,Single,Middle,5,3,75,2.87,Avrage
+,Male,4.5,4.1,Relative Family,15,10,3.5,0,Yes,Single,Middle,8,16,70,2.76,Avrage
+,Female,4.69,4.42,Family,40,9,2,20,NO,Single,Lower middle,1,2,70,2.82,Avrage
+,Male,4,3.5,Family,45,10,1,10,NO,Single,Lower middle,14,4,80,2.88,Avrage
+,Male,4.88,3.5,Family,50,11,2,0,Yes,Single,Middle,9,6,70,2.85,Avrage
+,Male,4.5,4.5,Family,60,12,1,8,NO,In a relation,Middle,8,5,80,2.84,Avrage
+,Male,4.5,3.7,Family,60,9,2,14,Yes,Single,Middle,11,10,80,2.81,Avrage
+,Male,4.75,4,Family,60,10,1,0,NO,Single,Upper middle,9,4,80,2.78,Avrage
+,Female,3.5,3.5,Hostel,20,14,0.5,42,Yes,In a relation,Middle,9,2,60,2.44,Poor
+,Male,4.56,3.67,Family,30,15,1,0,NO,Single,Middle,4,2,70,2.2,Poor
+,Female,4,3.5,Family,120,9,1.5,0,Yes,Single,Middle,7,2,75,2.51,Poor
+,Female,4,4.17,Family,90,10,2,13,NO,Single,Middle,4,4,75,2.66,Poor
+,Male,3,3.25,Family,90,11,2,30,Yes,Single,Middle,10,6,95,2.43,Poor
+,Male,3.8,3.3,Family,90,15,1,0,Yes,Single,Upper middle,4,3,70,2.62,Poor
+CSE 061 07328,Female,5,4.5,Family,20,6,3,0,NO,Single,Middle,1,0,100,3.89,Excellent
+CSE 061 07317,Female,5,4.5,Mess,5,4,3,0,NO,Single,Middle,2,1,100,3.87,Excellent
+CSE 062 07352,Male,5,5,Family,30,5,3,24,NO,Single,Lower middle,12,8,100,3.62,Very Good
+CSE 062 07367,Male,4.81,4.2,Mess,60,9,2.5,0,NO,Single,Middle,0,0,98,3.51,Very Good
+CSE 061 07313,Male,5,4.17,Mess,30,7,4,12,NO,Single,Middle,0,0,100,3.73,Very Good
+CSE 061 07326,Male,5,4.5,Mess,7,8,4,0,NO,Single,Lower middle,4,4,96,3.64,Very Good
+CSE 061 07312,Male,4.31,4.43,Relative Family,45,6,2,15,NO,Single,Middle,0,0,98,3.61,Very Good
+CSE 060 07232,Female,4.75,3.8,Family,10,8,1.5,0,Yes,Single,Upper middle,7,2,95,3.4,Good
+CSE 062 07347,Female,4.16,3.9,Family,120,7.5,3,18,Yes,Single,Middle,12,4,95,3.45,Good
+CSE 063 07497,Male,4.69,3.9,Mess,20,10,2,0,NO,Single,Middle,4,0,98,3.47,Good
+CSE 061 07293,Male,4.75,3.75,Mess,20,12,2,40,Yes,Single,Middle,2,0,98,3.48,Good
+CSE 061 07301,Female,4.96,5,Family,20,14,2,0,Yes,Single,Middle,1,0,95,3.44,Good
+CSE 061 07294,Female,5,4.33,Family,60,9,3,0,NO,Single,Middle,1,1,98,3.46,Good
+CSE 061 07320,Female,4.56,4.67,Family,60,7.5,2,12,NO,Married,Middle,8,5,95,3.41,Good
+CSE 060 07342,Female,4.5,4.8,Mess,20,8,2,10,NO,In a relation,Upper middle,1,3,85,3.11,Above Avrage
+CSE 062 07342,Male,4.75,4.7,Family,120,3,2,9,NO,Single,Middle,3,1,80,3.04,Above Avrage
+CSE 062 07369,Male,4.63,4.5,Family,90,2,2,15,NO,Single,Upper middle,0,4,90,3,Above Avrage
+CSE 062 07359,Male,4.81,4.6,Mess,15,13,1.5,0,NO,Single,High,5,4,80,3.13,Above Avrage
+CSE 061 07306,Male,4.2,4,Family,120,5,3,12,NO,Single,Lower middle,4,4,90,3.21,Above Avrage
+CSE 061 07321,Female,4.25,4,Hostel,10,5,1,12,NO,Single,Middle,10,7,90,3.11,Above Avrage
+CSE 061 07314,Male,3.5,3.75,Mess,20,2,2,0,Yes,Single,Middle,2,0,85,3.16,Above Avrage
+CSE 061 07303,Female,4.75,4.5,Hostel,10,4,1,10,NO,Single,Middle,1,4,90,3.1,Above Avrage
+CSE 062 07340,Female,4.69,4.42,Family,40,9,2,20,NO,Single,Lower middle,1,2,70,2.82,Avrage
+CSE 060 07279,Male,4,3.5,Family,45,10,1,10,NO,Single,Lower middle,14,4,80,2.88,Avrage
+CSE 062 07360,Male,4.88,3.5,Family,50,11,2,0,Yes,Single,Middle,9,6,70,2.82,Avrage
+CSE 052 06621,Male,4.5,4.5,Family,60,12,1,8,NO,In a relation,Middle,12,11,80,2.84,Avrage
+CSE 054 06734,Male,4.5,3.7,Family,60,9,1,14,Yes,Single,Middle,13,10,80,2.81,Avrage
+CSE 062 07375,Male,4.75,4,Family,60,10,1,0,NO,Single,Upper middle,9,4,80,2.78,Avrage
+CSE 054  06747,Male,4,3.9,Family,70,8,1.5,15,NO,Single,Middle,6,7,80,2.754,Avrage
+CSE 062 07356,Female,3.81,3.6,Family,60,10,2.5,0,NO,Single,High,5,7,80,2.81,Avrage
+CSE 058 07033,Male,3.5,3.7,Mess,25,9,2,0,NO,Single,Lower middle,11,11,80,2.86,Avrage
+CSE 058 07086,Male,4.56,4.5,Mess,15,10,3,48,NO,Single,Upper middle,12,14,80,2.83,Avrage
+CSE 06007231,Male,4,3.5,Mess,30,11,3,15,NO,Single,Middle,9,5,80,2.89,Avrage
+CSE 056 06864,Male,4.63,4,Family,40,13,2,10,NO,Single,Upper middle,11,5,92,2.99,Avrage
+CSE 061 07330,Male,3,3.25,Family,90,16,2,30,Yes,Single,Middle,10,6,95,2.43,Poor
+CSE 059 07174,Male,3.8,3.3,Family,90,11,1,0,Yes,Single,Upper middle,4,3,70,2.62,Poor
+,Female,5,5,Family,20,5.5,4,0,NO,Single,Middle,1,0,100,3.89,Excellent
+,Female,5,4.8,Mess,5,5,3,0,NO,Single,Middle,1,1,100,3.87,Excellent
+CSE 061 07319,Male,4.38,3.75,Mess,15,9,1.5,0,NO,In a relation,Middle,0,1,97,3.58,Very Good
+CSE 061 07316,Female,5,5,Family,45,7,3.5,16,Yes,In a relation,Upper middle,0,0,98,3.6,Very Good
+CSE 061 07311,Male,5,4.5,Family,50,5.5,3,0,NO,Single,Lower middle,0,0,98,3.69,Very Good
+CSE 060 07250,Male,4.38,3.86,Relative Family,60,8,2.5,0,NO,Single,Middle,1,1,98,3.47,Good
+,Male,4.38,3.86,Relative Family,60,8,2.5,0,NO,Single,Middle,1,1,98,3.47,Good
+,Male,4.2,4,Family,120,5,3,12,NO,Single,Lower middle,4,4,90,3.21,Above Avrage
+,Female,4.25,4,Mess,10,5,1,12,NO,Single,Middle,4,1,90,3.15,Above Avrage
+,Male,3.5,3.95,Mess,20,2,2,0,Yes,Single,Middle,2,0,85,3.16,Above Avrage
+,Female,4.75,4.5,Hostel,10,4,1,10,NO,Single,Middle,1,4,90,3.12,Above Avrage
+,Female,4.2,4,Mess,10,10,1,0,NO,Single,Middle,2,2,85,3.14,Above Avrage
+CSE 054 06806,Female,3,3.34,Family,120,12,1,0,NO,Single,Upper middle,15,11,90,2.94,Avrage
+CSE 060 07203,Male,4.5,3.6,Mess,60,11,2,0,NO,Single,Middle,4,2,75,2.77,Avrage
+,Male,3.56,3.5,Family,30,15,1,0,NO,Single,Middle,4,2,70,2.22,Poor
+,Female,4.2,3.5,Family,20,17,1.5,0,Yes,Single,Middle,7,2,75,2.31,Poor
+,Female,3.86,3.47,Family,90,14,2,13,NO,Single,Middle,4,4,75,2.46,Poor
+,Male,3.5,3.25,Family,90,11,0.5,30,Yes,Single,Middle,10,6,90,2.43,Poor
+,Male,3.7,3.23,Mess,90,13,1.5,0,Yes,Single,Upper middle,4,3,70,2.52,Poor
+,Female,5,4.9,Relative Family,60,6,3.5,15,NO,Single,Middle,0,0,100,3.88,Excellent
+,Male,5,4.8,Mess,25,5,5,0,NO,Single,Middle,2,0,100,3.79,Excellent
+,Female,4.95,4.8,Family,60,8,3,0,NO,Single,Middle,2,0,100,3.62,Very Good
+,Female,5,4.5,Family,45,10,2,0,NO,Married,Middle,3,1,98,3.55,Very Good
+,Male,5,4.85,Family,30,5,3,24,NO,Single,Lower middle,3,1,100,3.72,Very Good
+,Male,4.81,4.2,Mess,60,9,2.5,0,NO,Single,Middle,0,0,98,3.61,Very Good
+,Male,5,3.4,Relative Family,20,9,2,0,NO,Married,Middle,1,0,98,3.36,Good
+,Male,4.5,3.58,Mess,20,8,2.5,0,NO,Married,High,1,0,92,3.37,Good
+,Female,4.75,3.8,Family,10,8.5,1.5,0,Yes,Single,Upper middle,3,2,95,3.43,Good
+,Female,4.16,3.89,Family,60,7.5,3,8,Yes,Single,Middle,4,2,95,3.45,Good
+,Male,4.7,3.92,Mess,20,10,2,0,NO,Single,Middle,4,0,90,3.37,Good
+CSE 061 07334,Female,4,4,Mess,10,10,1,0,NO,Single,Middle,2,2,85,3.11,Above Avrage
+,Male,4,3.9,Family,70,8,1.5,15,NO,Single,Middle,6,7,80,2.74,Avrage
+,Female,3.81,3.7,Family,60,10,1.5,0,NO,Single,High,5,7,80,2.81,Avrage
+,Male,3.5,3.5,Mess,20,17,1.5,0,Yes,Single,Middle,8,2,65,2.31,Poor
+,Male,5,4.96,Mess,25,6,4,0,NO,Single,Middle,0,0,100,3.89,Excellent
+,Male,4.8,4.42,Family,35,8,2.5,12,NO,Single,Middle,1,0,97,3.68,Very Good
+,Male,4,3.53,Mess,15,12,1,0,NO,Single,Middle,12,10,70,2.43,Poor
+,Female,5,4.9,Family,45,5,3.5,0,NO,Single,middle,0,0,100,3.96,Excellent
+,Female,5,4.88,Relative Family,50,6,3,8,NO,Single,Upper middle,1,0,100,3.78,Excellent
+,Male,5,4.7,Mess,25,5,3,0,NO,Single,Middle,0,0,100,3.95,Excellent
+,Female,5,5,Family,40,5.5,4,0,NO,Single,Middle,1,0,100,3.89,Excellent
+,Female,4.25,4,Mess,10,5,1.5,0,NO,Single,Middle,3,1,90,3.22,Above Avrage
+,Male,3.5,3.95,Mess,20,4,1.5,0,NO,Single,Middle,2,1,85,3.16,Above Avrage
+,Female,4.75,4.5,Hostel,10,4,1,8,NO,Single,Middle,2,4,85,3.12,Above Avrage
+,Male,4.5,4.25,Mess,10,15,2,0,NO,Single,Lower middle,1,1,98,3.43,Good
+,Female,4.6,4.33,Relative Family,45,10,3,0,NO,Single,Middle,1,1,98,3.46,Good
+,Male,4.56,4.67,Mess,20,9,2,12,NO,Single,Middle,2,0,95,3.41,Good
